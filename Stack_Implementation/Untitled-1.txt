@@ -1,0 +1,8 @@
+<?php
+//defining function
+function writeMessage() {
+    echo "My name is Lakindu";
+}
+//calling function
+writeMessage();
+?>

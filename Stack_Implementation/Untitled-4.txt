@@ -1,0 +1,10 @@
+<?php
+//defining function
+function getSum($num1, $num2, $num3) {
+    $sum= $num1 + $num2 + $num3;
+    echo "Sum of the three numbers $num1, $num2 and $num3 is : $sum";
+}
+
+//calling Function
+getSum(10,20,30);
+?>
